@@ -5,7 +5,7 @@ package ffi
 import (
 	"github.com/filecoin-project/filecoin-ffi/generated"
 	"github.com/filecoin-project/go-state-types/abi"
-	"github.com/filecoin-project/specs-actors/actors/runtime/proof"
+	"github.com/filecoin-project/specs-actors/v2/actors/runtime/proof"
 	"github.com/pkg/errors"
 )
 

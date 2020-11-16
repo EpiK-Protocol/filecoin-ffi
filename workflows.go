@@ -15,7 +15,7 @@ import (
 	"path/filepath"
 
 	"github.com/filecoin-project/go-state-types/abi"
-	prf "github.com/filecoin-project/specs-actors/actors/runtime/proof"
+	prf "github.com/filecoin-project/specs-actors/v2/actors/runtime/proof"
 	"github.com/ipfs/go-cid"
 )
 
