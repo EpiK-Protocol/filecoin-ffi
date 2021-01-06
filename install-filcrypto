@@ -73,7 +73,7 @@ download_release_tarball() {
     local __repo_name=$3
     local __release_flags=$4
     # local __release_sha1=$(git rev-parse HEAD)
-    local __release_sha1="1985275547f222e8c97a8ab70b5cc26bc1fa50b1"
+    local __release_sha1="1d9cb3e8ff53f51f9318fc57e5d00bc79bdc0128"
     local __release_tag="${__release_sha1:0:16}"
     local __release_tag_url="https://api.github.com/repos/filecoin-project/${__repo_name}/releases/tags/${__release_tag}"
 
